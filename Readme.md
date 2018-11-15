@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication274/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication274/Form1.vb))
+* [Program.cs](./CS/WindowsApplication274/Program.cs) (VB: [Program.vb](./VB/WindowsApplication274/Program.vb))
+<!-- default file list end -->
 # How to display enumeration values in grid cells
 
 
